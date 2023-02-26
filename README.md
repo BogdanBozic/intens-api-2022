@@ -1,5 +1,9 @@
 # INTENS INTRODUCTORY TEST APP
 
+## Basic information
+
+This is the assignment that I was tasked with by Intens for their open vacancy for a DevOps engineer. The requirements for the task can be found [here](https://github.com/BogdanBozic/intens-api-2022/blob/master/REQUIREMENTS.md) while my resume can be found [here](https://github.com/BogdanBozic/intens-api-2022/blob/master/RESUME.md). I stand open for further inquires.
+
 ## App Description
 
 This is a simple Maven Java application. It returns a simple string "Intens Praksa 2022!" when a GET call is made to [this endpoint](https://bogdan-intens.herokuapp.com/).
